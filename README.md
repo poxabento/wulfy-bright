@@ -1,7 +1,7 @@
 # Wulfy Bright
 
 <p align="center">
-  <img src="https://i.ibb.co/8LRkD8WT/Chat-GPT-Image-18-de-set-de-2026-09-00-51-1.png" alt="Wulfy Bright" width="120">
+  <img src="https://i.ibb.co/8LRkD8WT/Chat-GPT-Image-18-de-set-de-2026-09-00-51-1.png" alt="Wulfy Bright" width="220">
 </p>
 
 <p align="center">
