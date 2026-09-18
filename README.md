@@ -31,7 +31,7 @@ O programa pode permanecer minimizado na bandeja do sistema. Fechar a janela pri
 ## Screenshot
 
 <p align="center">
-  <img src="https://i.ibb.co/jkt8YTS9/Whats-App-Image-2026-09-18-at-09-09-38.jpg" alt="Wulfy Bright em execução" width="420">
+  <img src="https://i.ibb.co/jkt8YTS9/Whats-App-Image-2026-09-18-at-09-09-38.jpg" alt="Wulfy Bright em execução" width="300">
 </p>
 
 ## Recursos
