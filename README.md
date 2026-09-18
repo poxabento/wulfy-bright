@@ -28,6 +28,12 @@ O aplicativo tenta aplicar as configurações pela API de magnificação e pelos
 
 O programa pode permanecer minimizado na bandeja do sistema. Fechar a janela principal apenas a oculta; para encerrar o processo, use a opção **Sair** no ícone da bandeja.
 
+## Screenshot
+
+<p align="center">
+  <img src="https://i.ibb.co/jkt8YTS9/Whats-App-Image-2026-09-18-at-09-09-38.jpg" alt="Wulfy Bright em execução" width="420">
+</p>
+
 ## Recursos
 
 - Ajuste de brilho entre 10% e 100%.
