@@ -11,6 +11,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/plataforma-Windows-0078D4?style=flat-square" alt="Windows">
   <img src="https://img.shields.io/badge/formato-EXE-107C10?style=flat-square" alt="Executável Windows">
+  <a href="https://drive.google.com/file/d/1Ow7H6YuAMlKUUFvSPq8sIa7d8kXXubFO/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Download-Google%20Drive-4285F4?style=flat-square&logo=google-drive&logoColor=white" alt="Download no Google Drive">
+  </a>
 </p>
 
 ## Sobre o projeto
@@ -43,9 +46,9 @@ O programa pode permanecer minimizado na bandeja do sistema. Fechar a janela pri
 
 ## Download
 
-Baixe o arquivo executável na seção **Releases** do GitHub:
+Baixe o arquivo executável pelo Google Drive:
 
-[Baixar Wulfy Bright](../../releases/latest)
+[Baixar Wulfy Bright](https://drive.google.com/file/d/1Ow7H6YuAMlKUUFvSPq8sIa7d8kXXubFO/view?usp=drive_link)
 
 O arquivo necessário é:
 
